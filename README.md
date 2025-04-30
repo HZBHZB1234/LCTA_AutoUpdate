@@ -1,0 +1,2 @@
+# LCTA_AutoUpdate
+基于比较文件替换的Limbus Company汉化自动更新程序
